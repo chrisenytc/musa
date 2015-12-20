@@ -6,6 +6,6 @@
 /doc/
 /pkg/
 /spec/reports/
-/spec/fixtures/encrypted_file.txt
-/spec/fixtures/decrypted_file.txt
 /tmp/
+spec/fixtures/encrypted_test.txt
+spec/fixtures/decrypted_test.txt
