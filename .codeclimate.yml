@@ -4,5 +4,8 @@ engines:
     enabled: true
 
 ratings:
-   paths:
-   - ".rb"
+  paths:
+    - ".rb"
+
+exclude_paths:
+  - musa.gemspec
