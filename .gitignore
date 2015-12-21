@@ -9,3 +9,4 @@
 /tmp/
 spec/fixtures/encrypted_test.txt
 spec/fixtures/decrypted_test.txt
+*.gem
