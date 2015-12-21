@@ -13,3 +13,6 @@ matrix:
     - rvm: jruby-9.0.3.0
   fast_finish: true
 before_install: gem install bundler -v 1.11.2
+addons:
+    code_climate:
+        repo_token: cf6624be91309ad923ff8be91fb870c3ec67465a144927903286028313c7fc37
