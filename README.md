@@ -1,6 +1,6 @@
-# Musa [![Build Status](https://img.shields.io/travis/chrisenytc/musa/master.svg)](http://travis-ci.org/chrisenytc/musa) [![GEM version](https://img.shields.io/gem/v/musa.svg)](https://rubygems.org/gems/musa) [![Gem Downloads](https://img.shields.io/gem/dt/musa.svg)](https://rubygems.org/gems/musa) [![Code Climate](https://img.shields.io/codeclimate/github/chrisenytc/musa.svg)](https://codeclimate.com/github/chrisenytc/musa) [![Coverage](https://img.shields.io/codeclimate/coverage/github/chrisenytc/musa.svg)](https://codeclimate.com/github/chrisenytc/musa) [![Dependencies](https://img.shields.io/gemnasium/chrisenytc/musa.svg)](https://github.com/chrisenytc/musa) [![Tips](https://img.shields.io/gratipay/musa.svg)](https://gratipay.com/musa/)
+# Musa [![Build Status](https://img.shields.io/travis/chrisenytc/musa/master.svg)](http://travis-ci.org/chrisenytc/musa) [![GEM version](https://img.shields.io/gem/v/musa.svg)](https://rubygems.org/gems/musa) [![Gem Downloads](https://img.shields.io/gem/dt/musa.svg)](https://rubygems.org/gems/musa) [![Code Climate](https://img.shields.io/codeclimate/github/chrisenytc/musa.svg)](https://codeclimate.com/github/chrisenytc/musa) [![Coverage](https://img.shields.io/codeclimate/coverage/github/chrisenytc/musa.svg)](https://codeclimate.com/github/chrisenytc/musa) [![Dependencies](https://img.shields.io/gemnasium/chrisenytc/musa.svg)](https://github.com/chrisenytc/musa)
 
-> A awesome tool to manage sensitive environment variables in your development environment
+> A gem to encrypt and decrypt files with aes-256-cbc
 
 ## Installation
 
